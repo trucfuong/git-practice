@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Nguyen Ngoc Truc Phuong>,MSSV<220328>.
+Đây là README từ nhánh conflict-demo.
